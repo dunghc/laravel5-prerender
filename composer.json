@@ -1,0 +1,18 @@
+{
+    "name": "jaysingh/laravel5-prerender",
+    "description": "A test package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jayram",
+            "email": "jayram.chandan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Jaysingh": "src/"
+        }
+    }
+}
